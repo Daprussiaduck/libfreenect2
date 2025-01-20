@@ -1,4 +1,5 @@
 build
+build-cmake
 
 # Dependency folders
 depends/*/
